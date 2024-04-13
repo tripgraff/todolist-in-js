@@ -1,1 +1,1 @@
-# todolist-in-js
+My first project in JS :)
