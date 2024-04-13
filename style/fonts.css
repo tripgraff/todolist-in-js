@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Schibsted_Grotesk;
+    font-weight: 400;
+    font-style: normal;
+    src: local("Schibsted_Grotesk"),
+        url("../fonts/SchibstedGrotesk-Regular.woff2") format('woff2'),
+        url("../fonts/SchibstedGrotesk-Regular.woff") format('woff'),
+        url("../fonts/SchibstedGrotesk-Regular.eot") format('eot');
+    font-display: swap;
+}
